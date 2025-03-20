@@ -1,0 +1,6 @@
+Short description of commit
+
+Longer explanation of the motivation for the change.
+
+Fixes-Bug: [Bug ID or remove this line]
+Implements-Requirement: [Requirement ID or remove this line]
